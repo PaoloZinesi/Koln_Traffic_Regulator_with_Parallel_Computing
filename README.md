@@ -1,4 +1,4 @@
-# Koln Traffic Regulator with Parallel Computing 
+# Koln Traffic Regulator with Parallel Computing ![ ](https://img.shields.io/badge/python-3c78aa?style=for-the-badge&logo=python&logoColor=ffe874) ![ ](https://img.shields.io/badge/dask-white?style=for-the-badge&logo=dask&logoColor=cc5537)
 Our work starts from a project jointly developed by IBM and by the German city of Koln thought to be a first step towards traffic regulation and an efficient exploitation of transport’s resources. The mobility is emulated with [SUMO](https://sumo.dlr.de/docs/index.html), an open-source traffic simulation suite which allows generating the movement around a predefined city road map, extracting the data for the analysis from past traffic scenarios.
 
 The dataset at our disposal was 20 GB space separated text file composed with the following columns:
